@@ -18,6 +18,7 @@
 # Bootstrap for making website responsive
 
 - [Basics of Bootstrap in one video ](https://www.youtube.com/watch?v=QE5oQh63gGE)
+- [Bootstrap 5 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
 
 
 
