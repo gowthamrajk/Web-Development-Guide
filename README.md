@@ -4,6 +4,8 @@
 
 ### For more web developments, visit my [Portfolio](https://gowthamrajk.github.io/) 🌐
 
+### To prepare for your Placement Interviews, visit my [Interview Preparation Kit](https://github.com/gowthamrajk/InterviewPreparationKit) 😄
+
 <br>
 
 ## 🤔 Are you looking for some good resources ? 
