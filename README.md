@@ -8,7 +8,7 @@
 
 <br>
 
-# Basics of HTML,CSS
+## Basics of HTML,CSS
 
 - [Html in one Video (3 hours)](https://www.youtube.com/watch?v=BsDoLVMnmZs)
 - [Css in one video (8 hours)](https://www.youtube.com/watch?v=Edsxf_NBFrw)
