@@ -39,6 +39,7 @@
 
 ## Best NodeJs Resources
 
+- [Crash Course by Traversy Media](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 
 
 
