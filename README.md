@@ -30,6 +30,7 @@
 # React
 
 - [React JS Course for Beginners by FreeCodeCamp](https://www.youtube.com/watch?v=nTeuhbP7wdE)
+- [React JS Tutorial for Beginners by Clever Programmer](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)
 
 
 
