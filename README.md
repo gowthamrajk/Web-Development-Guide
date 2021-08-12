@@ -35,6 +35,7 @@
 
 # Best Resource to Learn PHP MYSQL For Backend Development 
 
+- [PHP MYSQL Tutorial In Hindi by Thapa Technical](https://youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb)
 
 
 
