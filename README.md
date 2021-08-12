@@ -2,7 +2,7 @@
 
 - In this module, I will be adding some professional notes and reference tutorials which will be very much useful for freshers and beginners who are very passionate to become a web developer 
 
-### For more web developments, visit my [Portfolio](https://gowthamrajk.github.io/)
+### 🌐 For more web developments, visit my [Portfolio](https://gowthamrajk.github.io/)
 
 ## 🤔 Are you looking for some good resources ? 
 
