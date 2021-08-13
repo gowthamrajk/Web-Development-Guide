@@ -72,6 +72,7 @@
 - [Javascript Crash course by Edureka](https://www.youtube.com/watch?v=o1IaduQICO0&t=3s)
 - [Fundamentals of Javascript by CodingAddict](https://www.youtube.com/watch?v=2Ji-clqUYnA)
 - [Complete Javascript by Clever Programmer](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
+- [Javascript for Beginners by Academind](https://www.youtube.com/watch?v=2qDywOS7VAc)
 - [Javascript for Absolute beginners](https://www.youtube.com/watch?v=DcawN2FEP-w)
 - [Javascript in Tamil](https://www.youtube.com/watch?v=lG45bWUxBSU)
 - [complete Javascript by Hitesh Choudary](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
