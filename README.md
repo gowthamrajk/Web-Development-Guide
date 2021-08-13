@@ -53,6 +53,7 @@
 
 - [Basics of Bootstrap in one video ](https://www.youtube.com/watch?v=QE5oQh63gGE)
 - [Bootstrap 5 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
+- [Bootstrap 5 by ARC Tutorials](https://www.youtube.com/playlist?list=PLp50dWW_m40UvCxL8K83_DotLYiG4mDcM)
 - [Complete Bootstrap in Tamil](https://www.youtube.com/watch?v=sJawlsHweqc)
 - [Responsive Web Development using Bootstrap by FullCourse.org](https://www.youtube.com/watch?v=NalGuKWYlDY)
 - [Complete bootstrap in Hindi](https://www.youtube.com/watch?v=vpAJ0s5S2t0)
