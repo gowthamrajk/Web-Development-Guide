@@ -80,6 +80,10 @@
 - [Mastery in Javascript by Caleb Curry](https://www.youtube.com/watch?v=9M4XKi25I2M)
 - [30 days of JavaScript](https://javascript30.com/)
 
+## JQUERY
+
+
+
 ## Angular
 
 - [Angular Complete Course](https://www.youtube.com/watch?v=xGpHfFf18Ns)
