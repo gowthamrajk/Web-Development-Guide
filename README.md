@@ -73,6 +73,7 @@
 - [Fundamentals of Javascript by CodingAddict](https://www.youtube.com/watch?v=2Ji-clqUYnA)
 - [Complete Javascript by Clever Programmer](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
 - [Javascript for Absolute beginners](https://www.youtube.com/watch?v=DcawN2FEP-w)
+- [Javascript in Tamil](https://www.youtube.com/watch?v=lG45bWUxBSU)
 - [complete Javascript by Hitesh Choudary](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
 - [Javascript - full course by Intellipat](https://www.youtube.com/watch?v=1h46cNkyXlE)
 - [Practical Javascript Course by Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV)
