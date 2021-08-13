@@ -96,6 +96,7 @@
 
 - [Python Backend with Django](https://www.youtube.com/watch?v=jBzwzrDvZ18)
 - [FLASK complete guide by FreeCodeCamp](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
+- [Python - Django FullStack Web Development](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
 
 
 <br><br>
