@@ -70,6 +70,7 @@
 - [Javascript for Beginners by GreatLearning](https://www.youtube.com/watch?v=g1X6b5tRvrw)
 - [Javascript from Scratch by SimpliLearn](https://www.youtube.com/watch?v=ZYhGSfSfzeI)
 - [Javascript Crash course by Edureka](https://www.youtube.com/watch?v=o1IaduQICO0&t=3s)
+- [Fundamentals of Javascript by CodingAddict](https://www.youtube.com/watch?v=2Ji-clqUYnA)
 - [Complete Javascript by Clever Programmer](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
 - [Javascript for Absolute beginners](https://www.youtube.com/watch?v=DcawN2FEP-w)
 - [complete Javascript by Hitesh Choudary](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
