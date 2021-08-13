@@ -56,7 +56,7 @@
 
 ## Angular
 
-
+- [Angular Complete Course](https://www.youtube.com/watch?v=xGpHfFf18Ns)
 
 ## React
 
