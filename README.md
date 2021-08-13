@@ -76,6 +76,7 @@
 - [complete Javascript by Hitesh Choudary](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
 - [Practical Javascript Course by Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV)
 - [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=20575s)
+- [Mastery in Javascript by Caleb Curry](https://www.youtube.com/watch?v=9M4XKi25I2M)
 - [30 days of JavaScript](https://javascript30.com/)
 
 ## Angular
