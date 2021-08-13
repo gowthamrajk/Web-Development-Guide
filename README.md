@@ -82,7 +82,7 @@
 
 ## JQUERY
 
-
+- [Complete JQuery by Edureka](https://www.youtube.com/watch?v=HgvIox6ehkM)
 
 ## Angular
 
