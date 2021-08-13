@@ -119,6 +119,7 @@
 ## Best Resource to Learn PHP MYSQL For Backend Development 
 
 - [PHP MYSQL Tutorial In Hindi by Thapa Technical](https://youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb)
+- [PHP - full course by FreeCodeCamp](https://www.youtube.com/watch?v=OK_JCtrrv-c)
 
 ## Best NodeJs Resources
 
