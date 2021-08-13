@@ -155,6 +155,7 @@
 - [FLASK complete guide by FreeCodeCamp](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
 - [Complete Python in 12 hours](https://www.youtube.com/watch?v=WGJJIrtnfpk)
 - [Python for Beginners by Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- [Python Zero to Hero](https://www.youtube.com/watch?v=t8pPdKYpowI)
 - [Python - Django FullStack Web Development](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
 - [FullStack Development with Python & Django](https://www.youtube.com/playlist?list=PLd3UqWTnYXOln4Xw9AF0sOqx50hB1Kh8v)
 
