@@ -67,6 +67,7 @@
 
 - [Basics of  Js](https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL)
 - [Js in one video with Projects in JS](https://www.youtube.com/watch?v=hKB-YGF14SY)
+- [Javascript for Beginners by GreatLearning](https://www.youtube.com/watch?v=g1X6b5tRvrw)
 - [Javascript Crash course by Edureka](https://www.youtube.com/watch?v=o1IaduQICO0&t=3s)
 - [Complete Javascript by Clever Programmer](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
 - [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=20575s)
