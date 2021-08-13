@@ -89,6 +89,10 @@
 
 - [Complete JQuery by Edureka](https://www.youtube.com/watch?v=HgvIox6ehkM)
 
+## AJAX
+
+
+
 ## Angular JS
 
 - [Angular Complete Course](https://www.youtube.com/watch?v=xGpHfFf18Ns)
