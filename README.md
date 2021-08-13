@@ -29,6 +29,7 @@
 - [Full Stack Web Development by WB solutions](https://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
 - [Complete Full Stack Web Development by Joushua Bastean](https://www.youtube.com/playlist?list=PLQSmIhc0GVPPhpBAC3y6xChtOz3RJ8abN)
 - [FullStack Web Development by SimpliLearn](https://www.youtube.com/watch?v=kjBvQWHk_KI)
+- [FullStack Development by GreatLearning](https://www.youtube.com/watch?v=MSF-AfLfqzw)
 
 ## Basics of HTML,CSS
 
