@@ -86,7 +86,7 @@
 
 ## .NET Backend
 
-
+- [.NET for beginners by simpliLearn](https://www.youtube.com/watch?v=kdPtNMb8tPw)
 
 ## Python Backend
 
