@@ -23,6 +23,7 @@
 - [Web Development by Edureka](https://youtu.be/Q33KBiDriJY)
 - [Basics of Web Development](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n)
 - [Web Development Tutorials by Intellipat](https://www.youtube.com/watch?v=zAfLvFHKUS0)
+- [Web Development Tutorials for Beginners](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEloRCBI97ZXkWUg6MJn0Yf)
 
 ## FullStack Web Development
 
