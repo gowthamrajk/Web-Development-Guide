@@ -100,6 +100,7 @@
 - [React JS Course for Beginners by FreeCodeCamp](https://www.youtube.com/watch?v=nTeuhbP7wdE)
 - [Complete Fundamentals of ReactJS](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 - [ReactJS for Beginners by Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+- [Redux Tutorials for Beginners by Mosh](https://www.youtube.com/watch?v=poQXNp9ItL4)
 - [ReactJS - full course in 5 hours by Edureka](https://www.youtube.com/watch?v=fSp2C7QPH8M)
 - [Complete ReactJS tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - [React JS Tutorial for Beginners by Clever Programmer](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)
