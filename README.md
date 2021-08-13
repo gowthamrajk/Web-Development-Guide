@@ -122,6 +122,7 @@
 ## MYSQL 
 
 - [MySql Complete course by simpliLearn](https://www.youtube.com/watch?v=AA7i2GcTGwU)
+- [complete SQL by Edureka](https://www.youtube.com/watch?v=BPHAr4QGGVE)
 
 ## MongoDB
 
