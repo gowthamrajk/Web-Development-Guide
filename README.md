@@ -27,6 +27,7 @@
 - [Basics of HTML and CSS by CodeEvolution](https://youtube.com/playlist?list=PLC3y8-rFHvwiLG5IsOAxDkacPGPVYZlOT)
 - [Complete HTML5 & CSS3 in Hindi](https://youtube.com/playlist?list=PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB)
 - [Learn HTML5 and CSS3 From Scratch by FreeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc)
+- [Intro to HTML & CSS by Dani Krossing](https://youtube.com/playlist?list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
 
 ## Bootstrap for making website responsive
 
