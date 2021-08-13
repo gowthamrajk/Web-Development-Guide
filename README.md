@@ -93,6 +93,7 @@
 ## Python Backend
 
 - [Python Backend with Django](https://www.youtube.com/watch?v=jBzwzrDvZ18)
+- [FLASK complete guide by FreeCodeCamp](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
 
 
 <br><br>
