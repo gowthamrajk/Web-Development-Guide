@@ -74,6 +74,7 @@
 - [Complete Javascript by Clever Programmer](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
 - [Javascript for Beginners by Academind](https://www.youtube.com/watch?v=2qDywOS7VAc)
 - [Javascript for Absolute beginners](https://www.youtube.com/watch?v=DcawN2FEP-w)
+- [Complete Javascript Guide by EJ Media](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
 - [Javascript in Tamil](https://www.youtube.com/watch?v=lG45bWUxBSU)
 - [complete Javascript by Hitesh Choudary](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
 - [Javascript - full course by Intellipat](https://www.youtube.com/watch?v=1h46cNkyXlE)
