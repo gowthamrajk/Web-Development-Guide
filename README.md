@@ -124,6 +124,7 @@
 
 - [PHP MYSQL Tutorial In Hindi by Thapa Technical](https://youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb)
 - [PHP - full course by FreeCodeCamp](https://www.youtube.com/watch?v=OK_JCtrrv-c)
+- [PHP for Absolute beginners](https://www.youtube.com/watch?v=2eebptXfEvw)
 
 ## Best NodeJs Resources
 
