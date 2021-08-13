@@ -88,6 +88,7 @@
 
 - [React JS Course for Beginners by FreeCodeCamp](https://www.youtube.com/watch?v=nTeuhbP7wdE)
 - [Complete Fundamentals of ReactJS](https://www.youtube.com/watch?v=4UZrsTqkcW4)
+- [ReactJS - full course in 5 hours by Edureka](https://www.youtube.com/watch?v=fSp2C7QPH8M)
 - [React JS Tutorial for Beginners by Clever Programmer](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)
 - [Kick Start React JS by Praveen](https://www.youtube.com/watch?v=jGlKc0tYaIc)
 
