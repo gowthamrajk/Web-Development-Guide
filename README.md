@@ -91,6 +91,7 @@
 ## Angular
 
 - [Angular Complete Course](https://www.youtube.com/watch?v=xGpHfFf18Ns)
+- [Angular in 3 hours by SimpleLearn](https://www.youtube.com/watch?v=iZ1mlcCkY8A)
 
 ## React
 
