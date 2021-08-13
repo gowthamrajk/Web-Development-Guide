@@ -163,7 +163,7 @@
 
 ## Automation Testing
 
--
+-[Selenium full course by Edureka](https://www.youtube.com/watch?v=FRn5J31eAMw)
 
 <br><br>
 
