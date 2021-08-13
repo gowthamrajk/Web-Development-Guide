@@ -76,7 +76,7 @@
 
 ## JAVA Backend 
 
-
+- [Complete Core JAVA for Beginners by simpliLearn](https://www.youtube.com/watch?v=CFD9EFcNZTQ)
 
 ## Python Backend
 
