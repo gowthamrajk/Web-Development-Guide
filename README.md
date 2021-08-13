@@ -33,6 +33,7 @@
 - [SpringBoot Fullstack with Angular](https://www.youtube.com/watch?v=Gx4iBLKLVHk)
 - [FullStack for Beginners by Codepur](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_WaC9BpQY9pWGDGNWwDNrg6)
 - [Complete guide to FullStack by PedroTech](https://www.youtube.com/playlist?list=PLpPqplz6dKxUaZ630TY1BFIo5nP-_x-nL)
+- [Python - Django FullStack Web Development](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
 
 ## Basics of HTML,CSS
 
