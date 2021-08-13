@@ -68,7 +68,7 @@
 
 ## DevOps 
 
-
+- [DevOps for Beginners by Edureka](https://www.youtube.com/watch?v=hQcFE0RD0cQ)
 
 ## Best Resource to Learn PHP MYSQL For Backend Development 
 
