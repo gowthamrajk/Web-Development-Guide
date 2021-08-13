@@ -117,6 +117,10 @@
 
 - [React Native for Beginners](https://www.youtube.com/watch?v=0-S5a0eXPoc)
 
+## Redux 
+
+- [Redux Tutorials for Beginners by Mosh](https://www.youtube.com/watch?v=poQXNp9ItL4)
+
 ## VUE JS
 
 - [VueJS in 3 hours by FreeCodeCamp](https://www.youtube.com/watch?v=4deVCNJq3qc)
