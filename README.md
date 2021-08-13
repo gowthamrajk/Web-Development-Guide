@@ -25,6 +25,7 @@
 - [How To Make Responsive Website Without Using Bootstrap In Simple Html & Css.](https://www.youtube.com/watch?v=q9VvA1Adpr0)
 - [Complete HTML and CSS by GreatLearning](https://www.youtube.com/watch?v=uhza_QbzR7o)
 - [Basics of HTML and CSS by CodeEvolution](https://youtube.com/playlist?list=PLC3y8-rFHvwiLG5IsOAxDkacPGPVYZlOT)
+- [Complete HTML5 & CSS3 in Hindi](https://youtube.com/playlist?list=PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB)
 - [Learn HTML5 and CSS3 From Scratch by FreeCodeCamp](https://www.youtube.com/watch?v=mU6anWqZJcc)
 
 ## Bootstrap for making website responsive
