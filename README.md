@@ -157,6 +157,9 @@
 - [Python - Django FullStack Web Development](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
 - [FullStack Development with Python & Django](https://www.youtube.com/playlist?list=PLd3UqWTnYXOln4Xw9AF0sOqx50hB1Kh8v)
 
+## Web Editors
+
+
 
 
 <br><br>
