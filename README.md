@@ -54,6 +54,10 @@
 - [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=20575s)
 - [30 days of JavaScript](https://javascript30.com/)
 
+## Angular
+
+
+
 ## React
 
 - [React JS Course for Beginners by FreeCodeCamp](https://www.youtube.com/watch?v=nTeuhbP7wdE)
