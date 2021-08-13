@@ -23,6 +23,9 @@
 - [Web Development by Edureka](https://youtu.be/Q33KBiDriJY)
 - [Basics of Web Development](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n)
 - [Web Development Tutorials by Intellipat](https://www.youtube.com/watch?v=zAfLvFHKUS0)
+
+## FullStack Web Development
+
 - [Full Stack Web Development by WB solutions](https://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
 
 ## Basics of HTML,CSS
