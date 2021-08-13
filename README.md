@@ -147,6 +147,7 @@
 - [Java -full course](https://www.youtube.com/watch?v=Qgl81fPcLc8)
 - [complete JAVA Programming by Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5)
 - [Complete JAVA in 7 hours by Telusko](https://www.youtube.com/watch?v=8cm1x4bC610)
+- [DataStructures in 8 hours by FreeCodeCamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
 ## .NET Backend
 
