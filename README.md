@@ -97,7 +97,7 @@
 
 ## MYSQL 
 
-
+- [MySql Complete course by simpliLearn](https://www.youtube.com/watch?v=AA7i2GcTGwU)
 
 ## MongoDB
 
