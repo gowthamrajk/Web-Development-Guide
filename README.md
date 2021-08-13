@@ -153,6 +153,7 @@
 
 - [.NET for beginners by simpliLearn](https://www.youtube.com/watch?v=kdPtNMb8tPw)
 - [ASP.NET by FreeCodeCamp](https://www.youtube.com/watch?v=C5cnZ-gZy2I)
+- [C# full course by FreeCodeCamp](https://www.youtube.com/watch?v=GhQdlIFylQ8)
 
 ## Python Backend
 
