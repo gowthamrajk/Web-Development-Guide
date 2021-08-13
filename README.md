@@ -21,6 +21,7 @@
 ## Web Development 
 
 - [Web Development by Edureka](https://youtu.be/Q33KBiDriJY)
+- [Basics of Web Development](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n)
 
 ## Basics of HTML,CSS
 
