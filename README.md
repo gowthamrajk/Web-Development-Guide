@@ -71,6 +71,7 @@
 - [Javascript from Scratch by SimpliLearn](https://www.youtube.com/watch?v=ZYhGSfSfzeI)
 - [Javascript Crash course by Edureka](https://www.youtube.com/watch?v=o1IaduQICO0&t=3s)
 - [Complete Javascript by Clever Programmer](https://www.youtube.com/watch?v=Qqx_wzMmFeA)
+- [Practical Javascript Course by Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV)
 - [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=20575s)
 - [30 days of JavaScript](https://javascript30.com/)
 
