@@ -134,6 +134,7 @@
 ## JAVA Backend 
 
 - [Complete Core JAVA for Beginners by simpliLearn](https://www.youtube.com/watch?v=CFD9EFcNZTQ)
+- [Java -full course](https://www.youtube.com/watch?v=Qgl81fPcLc8)
 
 ## .NET Backend
 
