@@ -87,6 +87,7 @@
 ## .NET Backend
 
 - [.NET for beginners by simpliLearn](https://www.youtube.com/watch?v=kdPtNMb8tPw)
+- [ASP.NET by FreeCodeCamp](https://www.youtube.com/watch?v=C5cnZ-gZy2I)
 
 ## Python Backend
 
