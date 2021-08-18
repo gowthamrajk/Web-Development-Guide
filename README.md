@@ -104,6 +104,7 @@
 ## AJAX
 
 - [Ajax for beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3ZgLj8upMGSRSC1ezBfEZs)
+- [Ajax and JQuery for Beginners](https://www.youtube.com/playlist?list=PLHPcpp4e3JVpXbtgyD-k-nCmwpbbMIHOh)
 
 ## TypeScript
 
