@@ -123,6 +123,7 @@
 - [Typescript for Angular Developers](https://www.youtube.com/watch?v=Ohiedq1fwJ8)
 - [Typescript from Basic to advanced](https://www.youtube.com/playlist?list=PLm8lPnP-53nMb4D3_ruUuu9fyHGvGi9Eg)
 - [Typescript for begnners by Edureka](https://www.youtube.com/watch?v=82XE1X0Xblo)
+- [Complete Overview about typescript for beginners](https://www.youtube.com/playlist?list=PLUDwpEzHYYLtn2HxJdiSy1dCL_QF8T6cq)
 - [Typescript in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV46OtmTnYKPa2Mp9sPLWpRA-)
 - [Typescript from scratch to advanced by Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
 - [Learn Typescript in 4 hours](https://www.youtube.com/watch?v=upbyFRmIA3s)
