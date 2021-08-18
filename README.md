@@ -98,7 +98,7 @@
 - [JQuery tutorials by LearnCode Academy](https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_)
 - [A complete JQuery Series](https://www.youtube.com/playlist?list=PL-6FWL4WVVWXmWe_HnPG0rBQmmJfGsTKS)
 - [Learn JQuery from scratch in tamil](https://www.youtube.com/playlist?list=PLyYcNnaAVG5JecVL-nIIZkEVGu5BXBWJq)
-
+- [JQuery from scratch](https://www.youtube.com/playlist?list=PL4unWLKFsZfczoHztpgvzLqQTHn9szz4L)
 
 ## AJAX
 
