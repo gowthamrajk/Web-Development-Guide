@@ -94,6 +94,7 @@
 - [JQuery Tutorials by NetNinja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4)
 - [JQuery tutorials in Hindi](https://www.youtube.com/playlist?list=PL0b6OzIxLPbzSyiC0PFaqeabe1aGhfrbW)
 - [JQuery for beginners by Dani Krossing](https://www.youtube.com/playlist?list=PL0eyrZgxdwhy7byLHsVkuhtRV_IpoJU7n)
+- [JQuery for Beginners in Tamil](https://www.youtube.com/watch?v=IjIG2NZAJTs)
 
 ## AJAX
 
