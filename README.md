@@ -96,6 +96,8 @@
 - [JQuery for beginners by Dani Krossing](https://www.youtube.com/playlist?list=PL0eyrZgxdwhy7byLHsVkuhtRV_IpoJU7n)
 - [JQuery for Beginners in Tamil](https://www.youtube.com/watch?v=IjIG2NZAJTs)
 - [JQuery tutorials by LearnCode Academy](https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_)
+- [A complete JQuery Series](https://www.youtube.com/playlist?list=PL-6FWL4WVVWXmWe_HnPG0rBQmmJfGsTKS)
+
 
 ## AJAX
 
