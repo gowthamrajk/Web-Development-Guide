@@ -92,6 +92,7 @@
 - [Jquery Full course by Edureka](https://www.youtube.com/watch?v=HgvIox6ehkM)
 - [complete JQuery Masterclass by EJ Media](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1)
 - [JQuery Tutorials by NetNinja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4)
+- [JQuery tutorials in Hindi](https://www.youtube.com/playlist?list=PL0b6OzIxLPbzSyiC0PFaqeabe1aGhfrbW)
 
 ## AJAX
 
