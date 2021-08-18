@@ -109,6 +109,7 @@
 - [Ajax and JQuery for Beginners](https://www.youtube.com/playlist?list=PLHPcpp4e3JVpXbtgyD-k-nCmwpbbMIHOh)
 - [Ajax & XHR crash course](https://www.youtube.com/watch?v=82hnvUYY6QA)
 - [Ajax tutorials in tamil](https://www.youtube.com/watch?v=IGajw6Yrlro)
+- [Ajax tutorials by Thapa Technical](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3ZgLj8upMGSRSC1ezBfEZs)
 - [Learn PHP with Ajax in Hindi](https://www.youtube.com/playlist?list=PL0b6OzIxLPbxO0_8Av3c-9_l5RM5uJK8U)
 
 ## TypeScript
