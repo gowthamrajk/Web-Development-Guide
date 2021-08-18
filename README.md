@@ -145,6 +145,7 @@
 - [Complete ReactJS tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - [React JS Tutorial for Beginners by Clever Programmer](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)
 - [Kick Start React JS by Praveen](https://www.youtube.com/watch?v=jGlKc0tYaIc)
+- [React + Typescript](https://www.youtube.com/watch?v=0W6i5LYKCSI)
 
 ## React Native
 
