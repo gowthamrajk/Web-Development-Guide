@@ -116,7 +116,8 @@
 
 - [Typescript for Beginners by FreeCodeCamp](https://www.youtube.com/watch?v=gp5H0Vw39yw)
 - [Typescript tutorials by Academind](https://www.youtube.com/watch?v=BwuLxPH8IDs)
-- [typescript for Beginners by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+- [Typescript for Beginners by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+- [Typescript tutorials for Beginners](https://www.youtube.com/playlist?list=PL8p2I9GklV44LQUAXoJSN6W9uQG6erSA6)
 
 ## Angular JS
 
