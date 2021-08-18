@@ -99,6 +99,7 @@
 - [A complete JQuery Series](https://www.youtube.com/playlist?list=PL-6FWL4WVVWXmWe_HnPG0rBQmmJfGsTKS)
 - [Learn JQuery from scratch in tamil](https://www.youtube.com/playlist?list=PLyYcNnaAVG5JecVL-nIIZkEVGu5BXBWJq)
 - [JQuery from scratch](https://www.youtube.com/playlist?list=PL4unWLKFsZfczoHztpgvzLqQTHn9szz4L)
+- [JQuery for Beginners by tutorials point](https://www.youtube.com/playlist?list=PLWPirh4EWFpHJvju0lMXGZNS8KeSDGKRB)
 
 ## AJAX
 
