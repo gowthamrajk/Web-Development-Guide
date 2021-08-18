@@ -107,6 +107,7 @@
 - [Ajax for beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3ZgLj8upMGSRSC1ezBfEZs)
 - [Ajax for Beginners and Professionals](https://www.youtube.com/playlist?list=PLgp11Hu-N4DT59rXjR57hhy6pMH3I2yHU)
 - [Ajax and JQuery for Beginners](https://www.youtube.com/playlist?list=PLHPcpp4e3JVpXbtgyD-k-nCmwpbbMIHOh)
+- [Ajax & XHR crash course](https://www.youtube.com/watch?v=82hnvUYY6QA)
 
 ## TypeScript
 
