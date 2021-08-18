@@ -103,7 +103,7 @@
 
 ## AJAX
 
-
+- [Ajax for beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3ZgLj8upMGSRSC1ezBfEZs)
 
 ## TypeScript
 
