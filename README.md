@@ -135,6 +135,7 @@
 - [Angular Crash course by Mosh](https://www.youtube.com/watch?v=k5E2AVpwsko)
 - [Angular Full course in 5 hours](https://www.youtube.com/watch?v=xGpHfFf18Ns)
 - [Angular Crash course by Traversy media](https://www.youtube.com/watch?v=3dHNOWTI7H8)
+- [Angular for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 - [Complete Angular for Beginners in Tamil](https://www.youtube.com/watch?v=3WO2AffWvNs)
 
 ## React JS
