@@ -118,6 +118,7 @@
 - [Typescript tutorials by Academind](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 - [Typescript for Beginners by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 - [Typescript tutorials for Beginners](https://www.youtube.com/playlist?list=PL8p2I9GklV44LQUAXoJSN6W9uQG6erSA6)
+- [Typescript for React in 1 hour](https://www.youtube.com/watch?v=NjN00cM18Z4)
 
 ## Angular JS
 
