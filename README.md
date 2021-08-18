@@ -120,6 +120,7 @@
 - [Typescript for Beginners by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 - [Typescript tutorials for Beginners](https://www.youtube.com/playlist?list=PL8p2I9GklV44LQUAXoJSN6W9uQG6erSA6)
 - [Typescript for React in 1 hour](https://www.youtube.com/watch?v=NjN00cM18Z4)
+- [Typescript from Basic to advanced](https://www.youtube.com/playlist?list=PLm8lPnP-53nMb4D3_ruUuu9fyHGvGi9Eg)
 - [Typescript for begnners by Edureka](https://www.youtube.com/watch?v=82XE1X0Xblo)
 - [Typescript in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV46OtmTnYKPa2Mp9sPLWpRA-)
 - [Typescript from scratch to advanced by Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
