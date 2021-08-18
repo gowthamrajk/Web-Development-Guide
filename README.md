@@ -121,6 +121,7 @@
 - [Typescript for React in 1 hour](https://www.youtube.com/watch?v=NjN00cM18Z4)
 - [Typescript for begnners by Edureka](https://www.youtube.com/watch?v=82XE1X0Xblo)
 - [Typescript in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV46OtmTnYKPa2Mp9sPLWpRA-)
+- [Typescript from scratch to advanced by Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
 
 ## Angular JS
 
