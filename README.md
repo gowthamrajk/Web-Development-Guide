@@ -88,6 +88,8 @@
 ## JQUERY
 
 - [Complete JQuery by Edureka](https://www.youtube.com/watch?v=HgvIox6ehkM)
+- [JQuery Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVDV697uvHpavA3K_eWGQap)
+
 
 ## AJAX
 
