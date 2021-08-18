@@ -130,6 +130,7 @@
 - [Angular Complete Course](https://www.youtube.com/watch?v=xGpHfFf18Ns)
 - [Angular in 3 hours by SimpleLearn](https://www.youtube.com/watch?v=iZ1mlcCkY8A)
 - [Angular Crash course by Mosh](https://www.youtube.com/watch?v=k5E2AVpwsko)
+- [Angular Full course in 5 hours](https://www.youtube.com/watch?v=xGpHfFf18Ns)
 - [Complete Angular for Beginners in Tamil](https://www.youtube.com/watch?v=3WO2AffWvNs)
 
 ## React JS
