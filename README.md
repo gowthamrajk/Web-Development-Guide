@@ -122,6 +122,7 @@
 - [Typescript for begnners by Edureka](https://www.youtube.com/watch?v=82XE1X0Xblo)
 - [Typescript in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV46OtmTnYKPa2Mp9sPLWpRA-)
 - [Typescript from scratch to advanced by Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
+- [Learn Typescript in 4 hours](https://www.youtube.com/watch?v=upbyFRmIA3s)
 
 ## Angular JS
 
