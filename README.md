@@ -115,6 +115,7 @@
 ## TypeScript
 
 - [Typescript for Beginners by FreeCodeCamp](https://www.youtube.com/watch?v=gp5H0Vw39yw)
+- [Typescript tutorials by Academind](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 
 ## Angular JS
 
