@@ -38,21 +38,6 @@
 - [Python - Django FullStack Web Development](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
 - [FullStack NextJs tutorials from Design to Development](https://www.youtube.com/watch?v=QjZIeA952jE)
 
-## FullStack Web Projects
-
-- [FullStack Amazon Clone with React JS](https://www.youtube.com/watch?v=RDV3Z1KCBvo&t=355s)
-- [Realtime Chat Application with React Native](https://www.youtube.com/watch?v=EvSUJ5lUcBw)
-- [Uber Clone with React Native](https://www.youtube.com/watch?v=_U4zgWcw2Ws)
-- [TiKtok clone with React Native](https://www.youtube.com/watch?v=TGg9WNLUZPc)
-- [E commerce application with React & Node JS](https://www.youtube.com/watch?v=TRCDsB9i3bI)
-- [Covid-19 tracker with React JS](https://www.youtube.com/watch?v=cF3pIMJUZxM&t=7442s)
-- [Angular 11 Project from scratch](https://www.youtube.com/watch?v=LiOzTQAz13Q)
-- [FullStack MERN Project](https://www.youtube.com/watch?v=ngc9gnGgUdA)
-- [15 react JS Projects](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
-- [E commerce wbsite using Next Js](https://www.youtube.com/playlist?list=PLB97yPrFwo5jmtx3ClYFHvMLUMyx9qfnV)
-- [Bitcoin Application using Next Js](https://www.youtube.com/watch?v=xWZBhnXrnyM)
-- [Build a Google 2.0 with Tailwind CSS & NextJs](https://www.youtube.com/watch?v=24xpTmaPOdY)
-
 ## Basics of HTML,CSS
 
 - [Html in one Video (3 hours)](https://www.youtube.com/watch?v=BsDoLVMnmZs)
@@ -308,6 +293,21 @@
 - [Python Zero to Hero](https://www.youtube.com/watch?v=t8pPdKYpowI)
 - [Python - Django FullStack Web Development](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
 - [FullStack Development with Python & Django](https://www.youtube.com/playlist?list=PLd3UqWTnYXOln4Xw9AF0sOqx50hB1Kh8v)
+
+## FullStack Web Projects
+
+- [FullStack Amazon Clone with React JS](https://www.youtube.com/watch?v=RDV3Z1KCBvo&t=355s)
+- [Realtime Chat Application with React Native](https://www.youtube.com/watch?v=EvSUJ5lUcBw)
+- [Uber Clone with React Native](https://www.youtube.com/watch?v=_U4zgWcw2Ws)
+- [TiKtok clone with React Native](https://www.youtube.com/watch?v=TGg9WNLUZPc)
+- [E commerce application with React & Node JS](https://www.youtube.com/watch?v=TRCDsB9i3bI)
+- [Covid-19 tracker with React JS](https://www.youtube.com/watch?v=cF3pIMJUZxM&t=7442s)
+- [Angular 11 Project from scratch](https://www.youtube.com/watch?v=LiOzTQAz13Q)
+- [FullStack MERN Project](https://www.youtube.com/watch?v=ngc9gnGgUdA)
+- [15 react JS Projects](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
+- [E commerce wbsite using Next Js](https://www.youtube.com/playlist?list=PLB97yPrFwo5jmtx3ClYFHvMLUMyx9qfnV)
+- [Bitcoin Application using Next Js](https://www.youtube.com/watch?v=xWZBhnXrnyM)
+- [Build a Google 2.0 with Tailwind CSS & NextJs](https://www.youtube.com/watch?v=24xpTmaPOdY)
 
 ## Web Editors
 
