@@ -235,6 +235,7 @@
 - [Next Js for Beginners by CodeDamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQmpzsVeR7-KnX2li19KZhxE)
 - [Next Js for Beginners in Hindi](https://www.youtube.com/playlist?list=PLZjjdd9-SJS2ZvI4ct5Qtkje_Vdb5O_KM)
 - [Next Js tutorials from scratch](https://www.youtube.com/playlist?list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40)
+- [Advanced Next Js](https://www.youtube.com/watch?v=EJVGzyWSCBE)
 
 ## NUXT JS
 
