@@ -138,6 +138,7 @@
 - [Angular in 3 hours by SimpleLearn](https://www.youtube.com/watch?v=iZ1mlcCkY8A)
 - [Angular Crash course by Mosh](https://www.youtube.com/watch?v=k5E2AVpwsko)
 - [Angular Full course in 5 hours](https://www.youtube.com/watch?v=xGpHfFf18Ns)
+- [Angular Js for Beginners by Code Evolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjfc2yJlldxjodwpUhVvDPg)
 - [Angular Crash course by Traversy media](https://www.youtube.com/watch?v=3dHNOWTI7H8)
 - [Angular Js for Beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl)
 - [Angular for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
