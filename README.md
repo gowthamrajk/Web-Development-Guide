@@ -158,6 +158,7 @@
 - [Build a complete React Native app](https://www.youtube.com/watch?v=qSRrxpdMpVc)
 - [React Native Tutorials for beginners by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
 - [Reactive Native for Beginners by Programming with Mash](https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ)
+- [Reacte Native by Code step by step](https://www.youtube.com/playlist?list=PL8p2I9GklV44z6euF3nqS0TlKbaGiFUGO)
 
 ## Redux 
 
