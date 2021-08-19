@@ -197,6 +197,7 @@
 - [React Hooks full course by FreeCodeCamp](https://www.youtube.com/watch?v=iVRO0toVdYM)
 - [React Hooks for Beginners by CodeDamn](https://www.youtube.com/watch?v=324czHa9O9U)
 - [All React Hooks in 1.5 hour](https://www.youtube.com/watch?v=LlvBzyy-558)
+- [React content and Hooks tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
 
 ## Redux 
 
