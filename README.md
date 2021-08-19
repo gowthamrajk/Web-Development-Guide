@@ -146,6 +146,7 @@
 - [Angular for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 - [Complete Angular Js tutorials](https://www.youtube.com/playlist?list=PLvZkOAgBYrsS_ugyamsNpCgLSmtIXZGiz)
 - [Complete Angular for Beginners in Tamil](https://www.youtube.com/watch?v=3WO2AffWvNs)
+- [Angular Js tutorials in Hindi](https://www.youtube.com/playlist?list=PLvQjNLQMdagP3OzoBMfBT48uJ-SPfSsWj)
 
 ## React JS
 
