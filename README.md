@@ -47,6 +47,7 @@
 - [Covid-19 tracker with React JS](https://www.youtube.com/watch?v=cF3pIMJUZxM&t=7442s)
 - [Angular 11 Project from scratch](https://www.youtube.com/watch?v=LiOzTQAz13Q)
 - [FullStack MERN Project](https://www.youtube.com/watch?v=ngc9gnGgUdA)
+- [15 react JS Projects](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
 
 ## Basics of HTML,CSS
 
