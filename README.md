@@ -223,6 +223,10 @@
 
 - [NextJs crashcourse for beginners](https://www.youtube.com/watch?v=MFuwkrseXVE)
 
+## NUXT JS
+
+
+
 ## MERN Stack Development
 
 - [MERN Stack in Tamil by CodeBinX](https://www.youtube.com/watch?v=XVuymymi28M)
