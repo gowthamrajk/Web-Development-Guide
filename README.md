@@ -187,6 +187,7 @@
 ## Redux 
 
 - [Redux Tutorials for Beginners by Mosh](https://www.youtube.com/watch?v=poQXNp9ItL4)
+- [Complete Redux tutorials by codeEvolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
 
 ## VUE JS
 
