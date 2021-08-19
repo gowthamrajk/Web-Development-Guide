@@ -145,6 +145,7 @@
 - [ReactJS for Beginners by Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 - [React - full crashcourse for beginners](https://www.youtube.com/watch?v=Dorf8i6lCuk)
 - [Ionic + React for beginners](https://www.youtube.com/watch?v=_03VKmdrxV8)
+- [complete React JS in tamil](https://www.youtube.com/watch?v=gmparjlRJnY)
 - [React with Typescript in Hindi](https://www.youtube.com/playlist?list=PLEtjGa9VEukNKslFyRlhODXXuKgRnvVyM)
 - [ReactJS - full course in 5 hours by Edureka](https://www.youtube.com/watch?v=fSp2C7QPH8M)
 - [Complete ReactJS tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
