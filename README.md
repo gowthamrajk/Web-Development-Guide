@@ -45,6 +45,7 @@
 - [TiKtok clone with React Native](https://www.youtube.com/watch?v=TGg9WNLUZPc)
 - [E commerce application with React & Node JS](https://www.youtube.com/watch?v=TRCDsB9i3bI)
 - [Covid-19 tracker with React JS](https://www.youtube.com/watch?v=cF3pIMJUZxM&t=7442s)
+- [Angular 11 Project from scratch](https://www.youtube.com/watch?v=LiOzTQAz13Q)
 
 ## Basics of HTML,CSS
 
