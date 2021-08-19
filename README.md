@@ -49,6 +49,7 @@
 - [FullStack MERN Project](https://www.youtube.com/watch?v=ngc9gnGgUdA)
 - [15 react JS Projects](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
 - [E commerce wbsite using Next Js](https://www.youtube.com/playlist?list=PLB97yPrFwo5jmtx3ClYFHvMLUMyx9qfnV)
+- [Bitcoin Application using Next Js](https://www.youtube.com/watch?v=xWZBhnXrnyM)
 
 ## Basics of HTML,CSS
 
