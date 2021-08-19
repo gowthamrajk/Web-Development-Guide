@@ -157,6 +157,7 @@
 
 - [React Native for Beginners](https://www.youtube.com/watch?v=0-S5a0eXPoc)
 - [Build a complete React Native app](https://www.youtube.com/watch?v=qSRrxpdMpVc)
+- [Learn react Native in 10 hours](https://www.youtube.com/watch?v=npe3Wf4tpSg)
 - [React Native Tutorials for beginners by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
 - [React Native for Beginners by Programming with Mash](https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ)
 - [Reacte Native by Code step by step](https://www.youtube.com/playlist?list=PL8p2I9GklV44z6euF3nqS0TlKbaGiFUGO)
