@@ -190,6 +190,7 @@
 ## React Hooks
 
 - [React Hooks Tutorials by CodeEvolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A)
+- [React Hooks crash course in 2 hours](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
 
 ## Redux 
 
