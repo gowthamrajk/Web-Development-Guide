@@ -142,6 +142,7 @@
 - [Angular Crash course by Traversy media](https://www.youtube.com/watch?v=3dHNOWTI7H8)
 - [Angular Js for Beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl)
 - [Complete Angular Js tutorials by codeDamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQmX2bItSRCqwiQZn5dIL1gt)
+- [Angular Js from scratch by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v)
 - [Angular for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 - [Complete Angular for Beginners in Tamil](https://www.youtube.com/watch?v=3WO2AffWvNs)
 
