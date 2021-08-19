@@ -228,6 +228,7 @@
 - [NodeJS for Beginners by Codeevolution](https://www.youtube.com/watch?v=CTxrpmY1At8&list=PLC3y8-rFHvwhco_O8PS1iS9xRrdVTvSIz)
 - [Node & ExpressJS](https://www.youtube.com/watch?v=Oe421EPjeBE)
 - [NodeJS in 3 hours by FreeCodeCamp](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+- [Introduction to NodeJs by Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG)
 
 ## JAVA Backend 
 
