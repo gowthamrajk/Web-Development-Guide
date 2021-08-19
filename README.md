@@ -194,6 +194,7 @@
 - [Redux crashcourse with react](https://www.youtube.com/watch?v=93p3LxR9xfM)
 - [Learn Redux for Beginners](https://www.youtube.com/watch?v=FqSabub_yNI)
 - [React + Redux Beginner Project](https://www.youtube.com/watch?v=0W6i5LYKCSI)
+- [Build a Todo List app with Redux](https://www.youtube.com/watch?v=YhgSuUkWlK4)
 
 ## VUE JS
 
