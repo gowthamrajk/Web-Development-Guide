@@ -204,6 +204,7 @@
 - [Redux crashcourse with react](https://www.youtube.com/watch?v=93p3LxR9xfM)
 - [Learn Redux for Beginners](https://www.youtube.com/watch?v=FqSabub_yNI)
 - [React + Redux Beginner Project](https://www.youtube.com/watch?v=0W6i5LYKCSI)
+- [Redux for Beginner with web hooks](https://www.youtube.com/watch?v=jZTxPlUpe3o)
 - [Build a Todo List app with Redux](https://www.youtube.com/watch?v=YhgSuUkWlK4)
 - [Complete React Tutorisl with Redux](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 
