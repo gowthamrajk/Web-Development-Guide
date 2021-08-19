@@ -194,6 +194,7 @@
 - [Practical React Hooks Tutorials](https://www.youtube.com/watch?v=f687hBjwFcM)
 - [Learn React Hooks in one video](https://www.youtube.com/watch?v=hJ5UEtdS8qE)
 - [React Hooks full course by FreeCodeCamp](https://www.youtube.com/watch?v=iVRO0toVdYM)
+- [React Hooks for Beginners by CodeDamn](https://www.youtube.com/watch?v=324czHa9O9U)
 
 ## Redux 
 
