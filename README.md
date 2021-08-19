@@ -172,6 +172,7 @@
 - [Flutter + React Native in Hindi](https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f)
 - [Realtime Chat Application with React Native](https://www.youtube.com/watch?v=EvSUJ5lUcBw)
 - [Uber Clone with React Native](https://www.youtube.com/watch?v=_U4zgWcw2Ws)
+- [TiKtok clone with React Native](https://www.youtube.com/watch?v=TGg9WNLUZPc)
 
 ## Redux 
 
