@@ -161,10 +161,11 @@
 - [Learn react Native in 10 hours](https://www.youtube.com/watch?v=npe3Wf4tpSg)
 - [React Native Tutorials for beginners by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
 - [React Native for Beginners by Programming with Mash](https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ)
-- [Reacte Native by Code step by step](https://www.youtube.com/playlist?list=PL8p2I9GklV44z6euF3nqS0TlKbaGiFUGO)
+- [React Native by Code step by step](https://www.youtube.com/playlist?list=PL8p2I9GklV44z6euF3nqS0TlKbaGiFUGO)
 - [Complete React Native in Tamil](https://www.youtube.com/playlist?list=PLyJBAy6FbNLLekt6buOhDNwa7AXnR7V3y)
 - [React Native from scratch in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV479IV5cXwKXqGOcCOu0bPXW)
 - [React Native tutorials by CodeDamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h)
+- [React Native for beginners in urdu](https://www.youtube.com/playlist?list=PLPoBhjfjcixaLeB5cj4qSKsbLH9yj7TZ6)
 - [Flutter + React Native in Hindi](https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f)
 
 ## Redux 
