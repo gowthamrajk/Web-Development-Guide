@@ -218,7 +218,7 @@
 
 ## NEXT JS
 
-
+- [NextJs crashcourse for beginners](https://www.youtube.com/watch?v=MFuwkrseXVE)
 
 ## MERN Stack Development
 
