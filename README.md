@@ -163,6 +163,7 @@
 - [Complete React Native in Tamil](https://www.youtube.com/playlist?list=PLyJBAy6FbNLLekt6buOhDNwa7AXnR7V3y)
 - [React Native from scratch in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV479IV5cXwKXqGOcCOu0bPXW)
 - [React Native tutorials by CodeDamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h)
+- [Flutter + React Native in Hindi](https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f)
 
 ## Redux 
 
