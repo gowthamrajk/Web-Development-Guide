@@ -51,6 +51,7 @@
 - [15 react JS Projects](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
 - [E commerce wbsite using Next Js](https://www.youtube.com/playlist?list=PLB97yPrFwo5jmtx3ClYFHvMLUMyx9qfnV)
 - [Bitcoin Application using Next Js](https://www.youtube.com/watch?v=xWZBhnXrnyM)
+- [Build a Google 2.0 with Tailwind CSS & NextJs](https://www.youtube.com/watch?v=24xpTmaPOdY)
 
 ## Basics of HTML,CSS
 
