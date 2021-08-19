@@ -159,6 +159,7 @@
 - [React Native Tutorials for beginners by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
 - [Reactive Native for Beginners by Programming with Mash](https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ)
 - [Reacte Native by Code step by step](https://www.youtube.com/playlist?list=PL8p2I9GklV44z6euF3nqS0TlKbaGiFUGO)
+- [Complete React Native in Tamil](https://www.youtube.com/playlist?list=PLyJBAy6FbNLLekt6buOhDNwa7AXnR7V3y)
 
 ## Redux 
 
