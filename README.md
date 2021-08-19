@@ -171,6 +171,7 @@
 - [React Native for beginners in urdu](https://www.youtube.com/playlist?list=PLPoBhjfjcixaLeB5cj4qSKsbLH9yj7TZ6)
 - [Flutter + React Native in Hindi](https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f)
 - [Realtime Chat Application with React Native](https://www.youtube.com/watch?v=EvSUJ5lUcBw)
+- [Uber Clone with React Native](https://www.youtube.com/watch?v=_U4zgWcw2Ws)
 
 ## Redux 
 
