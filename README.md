@@ -36,6 +36,7 @@
 - [Complete guide to FullStack by PedroTech](https://www.youtube.com/playlist?list=PLpPqplz6dKxUaZ630TY1BFIo5nP-_x-nL)
 - [FullStack Development with Python & Django](https://www.youtube.com/playlist?list=PLd3UqWTnYXOln4Xw9AF0sOqx50hB1Kh8v)
 - [Python - Django FullStack Web Development](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
+- [FullStack NextJs tutorials from Design to Development](https://www.youtube.com/watch?v=QjZIeA952jE)
 
 ## FullStack Web Projects
 
