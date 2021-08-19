@@ -222,6 +222,7 @@
 ## NEXT JS
 
 - [NextJs crashcourse for beginners](https://www.youtube.com/watch?v=MFuwkrseXVE)
+- [Next Js for beginners](https://www.youtube.com/watch?v=mTz0GXj8NN0)
 
 ## NUXT JS
 
