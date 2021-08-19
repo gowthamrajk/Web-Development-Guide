@@ -143,6 +143,7 @@
 - [React JS Course for Beginners by FreeCodeCamp](https://www.youtube.com/watch?v=nTeuhbP7wdE)
 - [Complete Fundamentals of ReactJS](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 - [ReactJS for Beginners by Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+- [complete React Js in 11 hours by clever Programmer](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)
 - [React - full crashcourse for beginners](https://www.youtube.com/watch?v=Dorf8i6lCuk)
 - [Ionic + React for beginners](https://www.youtube.com/watch?v=_03VKmdrxV8)
 - [complete React JS in tamil](https://www.youtube.com/watch?v=gmparjlRJnY)
