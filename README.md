@@ -225,7 +225,7 @@
 
 ## NUXT JS
 
-
+- [Learn to use Nuxt JS](https://www.youtube.com/playlist?list=PLe30vg_FG4OQihO5an0tNT_dpkxig8iPz)
 
 ## MERN Stack Development
 
