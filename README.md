@@ -166,6 +166,7 @@
 - [Complete React Native in Tamil](https://www.youtube.com/playlist?list=PLyJBAy6FbNLLekt6buOhDNwa7AXnR7V3y)
 - [React Native from scratch in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV479IV5cXwKXqGOcCOu0bPXW)
 - [Introduction to React Native by FreeCodeCamp](https://www.youtube.com/watch?v=frvXANSaSec)
+- [Build your first app with React Native](https://www.youtube.com/watch?v=PJ1CmZ7yav0)
 - [React Native tutorials by CodeDamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h)
 - [React Native for beginners in urdu](https://www.youtube.com/playlist?list=PLPoBhjfjcixaLeB5cj4qSKsbLH9yj7TZ6)
 - [Flutter + React Native in Hindi](https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f)
