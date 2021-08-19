@@ -37,6 +37,9 @@
 - [FullStack Development with Python & Django](https://www.youtube.com/playlist?list=PLd3UqWTnYXOln4Xw9AF0sOqx50hB1Kh8v)
 - [Python - Django FullStack Web Development](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
 - [FullStack Amazon Clone with React JS](https://www.youtube.com/watch?v=RDV3Z1KCBvo&t=355s)
+- [Realtime Chat Application with React Native](https://www.youtube.com/watch?v=EvSUJ5lUcBw)
+- [Uber Clone with React Native](https://www.youtube.com/watch?v=_U4zgWcw2Ws)
+- [TiKtok clone with React Native](https://www.youtube.com/watch?v=TGg9WNLUZPc)
 
 ## Basics of HTML,CSS
 
@@ -170,9 +173,7 @@
 - [React Native tutorials by CodeDamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h)
 - [React Native for beginners in urdu](https://www.youtube.com/playlist?list=PLPoBhjfjcixaLeB5cj4qSKsbLH9yj7TZ6)
 - [Flutter + React Native in Hindi](https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f)
-- [Realtime Chat Application with React Native](https://www.youtube.com/watch?v=EvSUJ5lUcBw)
-- [Uber Clone with React Native](https://www.youtube.com/watch?v=_U4zgWcw2Ws)
-- [TiKtok clone with React Native](https://www.youtube.com/watch?v=TGg9WNLUZPc)
+
 
 ## Redux 
 
