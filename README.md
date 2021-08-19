@@ -237,6 +237,7 @@
 - [Next Js tutorials from scratch](https://www.youtube.com/playlist?list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40)
 - [Advanced Next Js](https://www.youtube.com/watch?v=EJVGzyWSCBE)
 - [Learn Next Js from scratch](https://www.youtube.com/playlist?list=PL6bwFJ82M6FXjyBTVi6WSCWin8q_g_8RR)
+- [Build a blog with NextJS and Ghost](https://www.youtube.com/watch?v=1SYU1GorO6Y)
 
 ## NUXT JS
 
