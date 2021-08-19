@@ -36,6 +36,7 @@
 - [Complete guide to FullStack by PedroTech](https://www.youtube.com/playlist?list=PLpPqplz6dKxUaZ630TY1BFIo5nP-_x-nL)
 - [FullStack Development with Python & Django](https://www.youtube.com/playlist?list=PLd3UqWTnYXOln4Xw9AF0sOqx50hB1Kh8v)
 - [Python - Django FullStack Web Development](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
+- [FullStack Amazon Clone with React JS](https://www.youtube.com/watch?v=RDV3Z1KCBvo&t=355s)
 
 ## Basics of HTML,CSS
 
