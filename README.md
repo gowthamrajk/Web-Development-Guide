@@ -148,6 +148,7 @@
 - [Angular in 6 hours by FreeCodeCamp](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 - [Complete Angular Js tutorials](https://www.youtube.com/playlist?list=PLvZkOAgBYrsS_ugyamsNpCgLSmtIXZGiz)
 - [Complete Angular for Beginners in Tamil](https://www.youtube.com/watch?v=3WO2AffWvNs)
+- [Angular Js for beginners from scratch](https://www.youtube.com/playlist?list=PLVlQHNRLflP80qHYWmEFXwBn_3CObbX1q)
 - [Angular Js tutorials in Hindi](https://www.youtube.com/playlist?list=PLvQjNLQMdagP3OzoBMfBT48uJ-SPfSsWj)
 
 ## React JS
