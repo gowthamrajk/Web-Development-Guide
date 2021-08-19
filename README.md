@@ -44,6 +44,7 @@
 - [Uber Clone with React Native](https://www.youtube.com/watch?v=_U4zgWcw2Ws)
 - [TiKtok clone with React Native](https://www.youtube.com/watch?v=TGg9WNLUZPc)
 - [E commerce application with React & Node JS](https://www.youtube.com/watch?v=TRCDsB9i3bI)
+- [Covid-19 tracker with React JS](https://www.youtube.com/watch?v=cF3pIMJUZxM&t=7442s)
 
 ## Basics of HTML,CSS
 
