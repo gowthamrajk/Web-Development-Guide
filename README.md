@@ -190,6 +190,7 @@
 - [Redux for Beginners in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV47TDYUq8RmFzeI9CgOoVgpJ)
 - [React Redux tutorials by Edureka](https://www.youtube.com/watch?v=tOtGnCBXU3U)
 - [React Toolkit with Redux](https://www.youtube.com/watch?v=9lCmbth63k0)
+- [React Redux Tutorials for beginners](https://www.youtube.com/playlist?list=PL8p2I9GklV47jjUSMRXdLJQZCaImCPJjx)
 
 ## VUE JS
 
