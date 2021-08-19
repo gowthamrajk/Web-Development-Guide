@@ -224,6 +224,7 @@
 - [NextJs crashcourse for beginners](https://www.youtube.com/watch?v=MFuwkrseXVE)
 - [Next Js for beginners](https://www.youtube.com/watch?v=mTz0GXj8NN0)
 - [Next Js tutorials by CodeEvolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
+- [NextJs for beginners by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw)
 
 ## NUXT JS
 
