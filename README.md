@@ -144,6 +144,7 @@
 - [Complete Angular Js tutorials by codeDamn](https://www.youtube.com/playlist?list=PLYxzS__5yYQmX2bItSRCqwiQZn5dIL1gt)
 - [Angular Js from scratch by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v)
 - [Angular for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
+- [Complete Angular Js tutorials](https://www.youtube.com/playlist?list=PLvZkOAgBYrsS_ugyamsNpCgLSmtIXZGiz)
 - [Complete Angular for Beginners in Tamil](https://www.youtube.com/watch?v=3WO2AffWvNs)
 
 ## React JS
