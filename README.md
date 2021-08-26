@@ -73,6 +73,7 @@
 - [SASS crash course by Traversy Media](https://www.youtube.com/watch?v=nu5mdN2JIwM)
 - [Complete SASS for Beginners](https://www.youtube.com/watch?v=roywYSEPSvc)
 - [SASS for Beginners in Tamil](https://www.youtube.com/watch?v=HIIrA4hKbs8)
+- [Learn SASS in Hindi/Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbwX4_pV5V2E8q0_RAZqOOMv)
 
 ## Bootstrap for making website responsive
 
