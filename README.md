@@ -52,6 +52,7 @@
 
 ## TailWind CSS
 
+- [TailWind CSS tutorials by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
 
 ## SASS & SCSS
 
