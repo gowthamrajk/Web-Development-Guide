@@ -330,6 +330,7 @@
 - [Complete Python in 12 hours](https://www.youtube.com/watch?v=WGJJIrtnfpk)
 - [Python for Beginners by Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 - [Python Zero to Hero](https://www.youtube.com/watch?v=t8pPdKYpowI)
+- [Full Ecommerce website using Django & Vue JS](https://www.youtube.com/watch?v=Yg5zkd9nm6w)
 - [Python - Django FullStack Web Development](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
 - [FullStack Development with Python & Django](https://www.youtube.com/playlist?list=PLd3UqWTnYXOln4Xw9AF0sOqx50hB1Kh8v)
 
