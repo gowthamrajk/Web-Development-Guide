@@ -240,6 +240,7 @@
 
 - [VueJS in 3 hours by FreeCodeCamp](https://www.youtube.com/watch?v=4deVCNJq3qc)
 - [VueJS crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
+- [Vur Js 3 tutorilas by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
 
 ## NEXT JS
 
