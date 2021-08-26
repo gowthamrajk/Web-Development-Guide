@@ -347,6 +347,7 @@
 - [Full Ecommerce website using Django & Vue JS](https://www.youtube.com/watch?v=Yg5zkd9nm6w)
 - [Angular 11 Project from scratch](https://www.youtube.com/watch?v=LiOzTQAz13Q)
 - [Build a TODO list from scratch using React Js](https://www.youtube.com/watch?v=HgfA4W_VjmI)
+- [Customer Retail Management System using Laravel, PHP, Vue JS](https://www.youtube.com/watch?v=sH75VEfQKSc)
 - [FullStack MERN Project](https://www.youtube.com/watch?v=ngc9gnGgUdA)
 - [15 react JS Projects](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
 - [E commerce wbsite using Next Js](https://www.youtube.com/playlist?list=PLB97yPrFwo5jmtx3ClYFHvMLUMyx9qfnV)
