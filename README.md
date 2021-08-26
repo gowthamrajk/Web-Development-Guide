@@ -292,7 +292,7 @@
 
 ## MongoDB
 
-
+- [Learn MongoDB in Hindi](https://www.youtube.com/watch?v=oSIv-E60NiU)
 
 ## Firebase
 
