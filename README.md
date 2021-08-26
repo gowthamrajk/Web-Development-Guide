@@ -343,6 +343,7 @@
 - [Build a Travel Advisory App with Google map using React JS](https://www.youtube.com/watch?v=UKdQjQX1Pko)
 - [Covid-19 tracker with React JS](https://www.youtube.com/watch?v=cF3pIMJUZxM&t=7442s)
 - [Chat application with PHP, MySQL, JS](https://www.youtube.com/watch?v=VnvzxGWiK54&t=671s)
+- [Full Ecommerce website using Django & Vue JS](https://www.youtube.com/watch?v=Yg5zkd9nm6w)
 - [Angular 11 Project from scratch](https://www.youtube.com/watch?v=LiOzTQAz13Q)
 - [Build a TODO list from scratch using React Js](https://www.youtube.com/watch?v=HgfA4W_VjmI)
 - [FullStack MERN Project](https://www.youtube.com/watch?v=ngc9gnGgUdA)
