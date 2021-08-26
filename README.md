@@ -75,6 +75,7 @@
 - [Complete SASS for Beginners](https://www.youtube.com/watch?v=roywYSEPSvc)
 - [SASS for Beginners in Tamil](https://www.youtube.com/watch?v=HIIrA4hKbs8)
 - [Learn SASS in Hindi/Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbwX4_pV5V2E8q0_RAZqOOMv)
+- [SASS for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBxQO2r_kmxn-0UqL_Rkj0t)
 - [Making a Landing Page using HTML, SCSS, JS](https://www.youtube.com/watch?v=aoQ6S1a32j8)
 
 ## Bootstrap for making website responsive
