@@ -311,6 +311,7 @@
 ## Laravel
 
 - [Customer Retail Management System using Laravel, PHP, Vue JS](https://www.youtube.com/watch?v=sH75VEfQKSc)
+- [Build a course Platform using LARAVEL and NUXT JS](https://www.youtube.com/playlist?list=PLjCZ5YN4Hlacehn798-qep4yXDcL4oF-x)
 
 ## Best NodeJs Resources
 
