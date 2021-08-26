@@ -242,6 +242,7 @@
 - [VueJS crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
 - [Vur JS 3 tutorilas by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
 - [Vue JS 3 for beginners by CodeEvolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f)
+- [Vuew JS for Beginners by Code step by step](https://www.youtube.com/playlist?list=PL8p2I9GklV47GZrhYwnnStpx_B5GqL1Aq)
 
 ## NEXT JS
 
