@@ -274,6 +274,7 @@
 - [Learn to use NUXT Js](https://www.youtube.com/playlist?list=PLe30vg_FG4OQihO5an0tNT_dpkxig8iPz)
 - [Building a Serious NUXT JS app](https://www.youtube.com/playlist?list=PLPwpWyfm6JACZm5kqu6p4s7XHXbAQ7fP-)
 - [Getting Started with NUXT Js](https://www.youtube.com/watch?v=NS0io3Z75GI)
+- [Build a NUXT JS app with Vuetify and Axios](https://www.youtube.com/playlist?list=PL-lxoPS_1OXUimhJugWZ4bLeno-SWHqA_)
 
 ## MERN Stack Development
 
