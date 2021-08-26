@@ -61,6 +61,7 @@
 - [TailWind CSS complete course from Basic to Advanced in 3 hours](https://www.youtube.com/watch?v=lZp4salRFFc)
 - [TailWind CSS complete tutorial](https://www.youtube.com/watch?v=00KUv5R_yX0)
 - [Complete Flexbox tutorial using Tailwind CSS](https://www.youtube.com/watch?v=X6FIydgCzzY)
+- [Building Intercom Inbox UI with Tailwind CSS](https://www.youtube.com/watch?v=cg1qbkG0KRI)
 
 ## SASS & SCSS
 
