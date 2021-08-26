@@ -247,6 +247,7 @@
 - [Vue JS 2 tutorial by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
 - [Vue JS crash course in Hindi](https://www.youtube.com/watch?v=s_7LPrBRCaY)
 - [Vue JS 3 full course in 10 hours](https://www.youtube.com/watch?v=e-E0UB-YDRk)
+- [Vue JS for beginners in 3 hours](https://www.youtube.com/watch?v=ZqgiuPt5QZo)
 
 ## NEXT JS
 
