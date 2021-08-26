@@ -366,6 +366,7 @@
 - [E commerce wbsite using Next Js](https://www.youtube.com/playlist?list=PLB97yPrFwo5jmtx3ClYFHvMLUMyx9qfnV)
 - [Bitcoin Application using Next Js](https://www.youtube.com/watch?v=xWZBhnXrnyM)
 - [Build a Google 2.0 with Tailwind CSS & NextJs](https://www.youtube.com/watch?v=24xpTmaPOdY)
+- [FullStack Firebase & React Intermediate App course](https://www.youtube.com/watch?v=m_u6P5k0vP0)
 - [Instagram clone with React, Tailwind CSS & Firebase](https://www.youtube.com/watch?v=mDgEqoQUBgk)
 
 ## Web Editors
