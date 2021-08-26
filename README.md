@@ -56,6 +56,7 @@
 - [Tailwind crash course in 30 min](https://www.youtube.com/watch?v=UBOj6rqRUME)
 - [TailWind Crash Course in Hindi](https://www.youtube.com/watch?v=mVzY256R9fs)
 - [TailWind CSS for Beginners](https://www.youtube.com/watch?v=4wGmylafgM4)
+- [Designing with TailWind CSS](https://www.youtube.com/playlist?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR)
 
 ## SASS & SCSS
 
