@@ -25,6 +25,7 @@
 - [Web Development Tutorials by Intellipat](https://www.youtube.com/watch?v=zAfLvFHKUS0)
 - [Web Development Tutorials for Beginners](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEloRCBI97ZXkWUg6MJn0Yf)
 - [Learn Responsive Web design by FreeCodeCamp](https://www.youtube.com/watch?v=srvUrASNj0s)
+- [Full FrontEnd Web Development with HTML, CSS, JS, JQuery](https://www.youtube.com/watch?v=TdqQqyc7pfU)
 
 ## FullStack Web Development
 
