@@ -275,6 +275,7 @@
 - [Building a Serious NUXT JS app](https://www.youtube.com/playlist?list=PLPwpWyfm6JACZm5kqu6p4s7XHXbAQ7fP-)
 - [Getting Started with NUXT Js](https://www.youtube.com/watch?v=NS0io3Z75GI)
 - [Build a NUXT JS app with Vuetify and Axios](https://www.youtube.com/playlist?list=PL-lxoPS_1OXUimhJugWZ4bLeno-SWHqA_)
+- [Build a course Platform using LARAVEL and NUXT JS](https://www.youtube.com/playlist?list=PLjCZ5YN4Hlacehn798-qep4yXDcL4oF-x)
 
 ## MERN Stack Development
 
