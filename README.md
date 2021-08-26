@@ -269,6 +269,7 @@
 
 - [Learn to use Nuxt JS](https://www.youtube.com/playlist?list=PLe30vg_FG4OQihO5an0tNT_dpkxig8iPz)
 - [NUXT JS crash Course](https://www.youtube.com/watch?v=ltzlhAxJr74)
+- [The Ultimate NUXT JS tutorials](https://www.youtube.com/watch?v=Wdmi4k7sFzU)
 
 ## MERN Stack Development
 
