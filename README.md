@@ -300,6 +300,9 @@
 - [PHP - full course by FreeCodeCamp](https://www.youtube.com/watch?v=OK_JCtrrv-c)
 - [PHP for Absolute beginners](https://www.youtube.com/watch?v=2eebptXfEvw)
 
+## Laravel
+
+
 ## Best NodeJs Resources
 
 - [Crash Course by Traversy Media](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
