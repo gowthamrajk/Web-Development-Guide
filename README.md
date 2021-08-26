@@ -66,6 +66,7 @@
 ## SASS & SCSS
 
 - [SASS tutorials in 2 hours by freeCodeCamp](https://www.youtube.com/watch?v=_a5j7KoflTs)
+- [SASS tutorials by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA)
 
 ## Bootstrap for making website responsive
 
