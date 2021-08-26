@@ -244,6 +244,7 @@
 - [Vue JS 3 for beginners by CodeEvolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f)
 - [Vue JS for Beginners by Code step by step](https://www.youtube.com/playlist?list=PL8p2I9GklV47GZrhYwnnStpx_B5GqL1Aq)
 - [Vue JS tutorials in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn)
+- [Vue JS 2 tutorial by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
 
 ## NEXT JS
 
