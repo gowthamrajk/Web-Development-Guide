@@ -302,6 +302,7 @@
 
 ## Laravel
 
+- [Customer Retail Management System using Laravel, PHP, Vue JS](https://www.youtube.com/watch?v=sH75VEfQKSc)
 
 ## Best NodeJs Resources
 
