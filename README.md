@@ -272,6 +272,7 @@
 - [The Ultimate NUXT JS tutorials in 3 hours](https://www.youtube.com/watch?v=Wdmi4k7sFzU)
 - [NUXT JS with a project](https://www.youtube.com/watch?v=nteDXuqBfn0)
 - [Learn to use NUXT Js](https://www.youtube.com/playlist?list=PLe30vg_FG4OQihO5an0tNT_dpkxig8iPz)
+- [Building a Serious NUXT JS app](https://www.youtube.com/playlist?list=PLPwpWyfm6JACZm5kqu6p4s7XHXbAQ7fP-)
 
 ## MERN Stack Development
 
