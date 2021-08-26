@@ -58,6 +58,7 @@
 - [TailWind CSS for Beginners](https://www.youtube.com/watch?v=4wGmylafgM4)
 - [Designing with TailWind CSS](https://www.youtube.com/playlist?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR)
 - [TailWind CSS for Beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3l8tWTcB7R7Bsgd86lCa8a)
+- [TailWind CSS complete course from Basic to Advanced in 3 hours](https://www.youtube.com/watch?v=lZp4salRFFc)
 
 ## SASS & SCSS
 
