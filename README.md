@@ -54,6 +54,7 @@
 
 - [TailWind CSS tutorials by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
 - [Tailwind crash course in 30 min](https://www.youtube.com/watch?v=UBOj6rqRUME)
+- [TailWind Crash Course in Hindi](https://www.youtube.com/watch?v=mVzY256R9fs)
 
 ## SASS & SCSS
 
