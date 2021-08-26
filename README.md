@@ -283,7 +283,7 @@
 
 ## MEAN Stack Development
 
-
+- [MEAN Stack tutorials by Academind](https://www.youtube.com/watch?v=1tRLveSyNz8)
 
 ## MYSQL 
 
