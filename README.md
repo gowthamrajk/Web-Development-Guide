@@ -331,6 +331,7 @@
 - [TiKtok clone with React Native](https://www.youtube.com/watch?v=TGg9WNLUZPc)
 - [E commerce application with React & Node JS](https://www.youtube.com/watch?v=TRCDsB9i3bI)
 - [Covid-19 tracker with React JS](https://www.youtube.com/watch?v=cF3pIMJUZxM&t=7442s)
+- [Chat application with PHP, MySQL, JS](https://www.youtube.com/watch?v=VnvzxGWiK54&t=671s)
 - [Angular 11 Project from scratch](https://www.youtube.com/watch?v=LiOzTQAz13Q)
 - [FullStack MERN Project](https://www.youtube.com/watch?v=ngc9gnGgUdA)
 - [15 react JS Projects](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
