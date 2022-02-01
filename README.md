@@ -27,6 +27,9 @@
 - [Learn Responsive Web design by FreeCodeCamp](https://www.youtube.com/watch?v=srvUrASNj0s)
 - [Full FrontEnd Web Development with HTML, CSS, JS, JQuery](https://www.youtube.com/watch?v=TdqQqyc7pfU)
 
+![image](https://user-images.githubusercontent.com/43011442/151967259-c8d9f7e5-890c-4179-976a-4e5ccafb07f4.png)
+
+
 ## FullStack Web Development
 
 - [Full Stack Web Development by WB solutions](https://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
@@ -39,6 +42,9 @@
 - [FullStack Development with Python & Django](https://www.youtube.com/playlist?list=PLd3UqWTnYXOln4Xw9AF0sOqx50hB1Kh8v)
 - [Python - Django FullStack Web Development](https://www.youtube.com/playlist?list=PLuJZH5pDX4GKrPyVImrii6mZ3kdwAOLvv)
 - [FullStack NextJs tutorials from Design to Development](https://www.youtube.com/watch?v=QjZIeA952jE)
+
+![image](https://user-images.githubusercontent.com/43011442/151967356-538ef2fb-8fbc-40f2-a31d-9ea537caeb67.png)
+
 
 ## Basics of HTML,CSS
 
@@ -93,6 +99,9 @@
 - [Complete Bootstrap course by UDEMY](https://www.youtube.com/playlist?list=PLCt0Bryq6LgTm6SiJ3KeFR8CS6djjPYgS)
 - [Bootstrap tutorials for beginners in hindi by YohooBaba](https://www.youtube.com/playlist?list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG)
 - [Learn Bootstrap5 & SASS by FreeCodeCamp](https://www.youtube.com/watch?v=iJKCj8uAHz8)
+
+![image](https://user-images.githubusercontent.com/43011442/151967398-e5f65788-c992-4450-9c0f-dcfee14f6951.png)
+
 
 ## JavaScript
 
@@ -368,6 +377,9 @@
 - [Build a Google 2.0 with Tailwind CSS & NextJs](https://www.youtube.com/watch?v=24xpTmaPOdY)
 - [FullStack Firebase & React Intermediate App course](https://www.youtube.com/watch?v=m_u6P5k0vP0)
 - [Instagram clone with React, Tailwind CSS & Firebase](https://www.youtube.com/watch?v=mDgEqoQUBgk)
+
+![image](https://user-images.githubusercontent.com/43011442/151967318-d6609448-a333-488a-9620-c9cd04c9295d.png)
+
 
 ## Web Editors
 
